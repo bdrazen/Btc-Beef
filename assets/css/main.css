@@ -1700,7 +1700,7 @@ section {
   background-repeat: no-repeat;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   .about-img {
     width: 100%;             /* full width on mobile */
     height: 200px;           /* reasonable height for mobile */
