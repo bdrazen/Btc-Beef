@@ -1707,6 +1707,7 @@ section {
     max-height: 50vh;        /* won’t exceed half the viewport height */
     background-size: cover;  /* keeps aspect ratio */
     background-position: center;
+  }
 }
 
 .menu-item .menu-img {
