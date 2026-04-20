@@ -276,6 +276,11 @@ section {
   margin-right: 6px;
 }
 
+.header .logo svg {
+  max-width: 216px;
+  max-height: 50px;
+}
+
 .header .logo h1 {
   font-size: 28px;
   font-weight: 700;
